@@ -1,0 +1,37 @@
+/* 双语欢迎语板块（复刻博雅小筑首页样式） */
+.bilingual {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+  text-align: left;
+  max-width: 62rem;
+  margin: 0 auto;
+}
+.bilingual-col {
+  flex: 1 1 260px;
+  min-width: 240px;
+}
+.bilingual-zh {
+  border-left: 3px solid #19a974;
+  padding-left: 1rem;
+}
+.bilingual-en {
+  color: #555;
+  font-style: italic;
+  border-left: 3px solid #cfe8dd;
+  padding-left: 1rem;
+}
+.bilingual-col p {
+  margin: 0;
+  line-height: 1.7;
+}
+/* 绿色强调字 */
+.accent-green {
+  color: #137a52;
+  font-weight: 600;
+}
+@media screen and (max-width: 600px) {
+  .bilingual { flex-direction: column; gap: 1rem; }
+  .bilingual-en { font-size: 0.95rem; }
+}
