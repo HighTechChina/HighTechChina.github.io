@@ -38,11 +38,11 @@
 
 /* 首页/内页 hero：铺满宽度 + 限高 + 上下对称居中裁切（banner 效果，无黑边） */
 .site-hero { position: relative; width: 100%; line-height: 0; overflow: hidden; background: #111; }
-.site-hero-img { display: block; width: 100%; height: 72vh; object-fit: cover; object-position: center; }
+.site-hero-img { display: block; width: 100%; height: 86vh; object-fit: cover; object-position: center; }
 .site-hero-overlay { position: absolute; inset: 0; line-height: 1.5; display: flex; flex-direction: column; }
 .site-hero-overlay > nav { flex: 0 0 auto; }
 .site-hero-overlay > div { flex: 1 1 auto; display: flex; align-items: center; justify-content: center; }
 /* 移动端：首屏更扁一些，避免占满整屏 */
 @media screen and (max-width: 768px) {
-  .site-hero-img { height: 52vh; }
+  .site-hero-img { height: 66vh; }
 }
