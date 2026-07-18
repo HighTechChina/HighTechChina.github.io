@@ -1,6 +1,5 @@
 ---
 title: "博雅高科"
-description: "中华科技·博览天下"
 featured_image: "/images/background.jpg"
 ---
 
