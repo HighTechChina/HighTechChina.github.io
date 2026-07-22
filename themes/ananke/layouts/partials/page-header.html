@@ -1,5 +1,6 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-{{ if $featured_image }}
+{{/* 文章页(IsPage)不显示全屏 hero 大图，避免挤压内容区；与博雅小筑文章页一致：仅导航+标题+正文。列表/首页仍按 featured_image 显示 banner。 */}}
+{{ if and $featured_image (not .IsPage) }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="site-hero relative">
