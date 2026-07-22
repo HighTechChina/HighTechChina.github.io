@@ -5,7 +5,8 @@ author: "博雅高科"
 description: "基于2026年全球主要AI大会与行业领袖最新演讲，梳理AI安全与可信、World Model、具身智能与Agent生态、混合式AI、算力基础设施四大方向，及医疗、金融、制造、出行、内容创作等行业落地前景。"
 featured_image: "/images/background.jpg"
 tags: ["人工智能", "AI", "前沿科技", "产业观察"]
-categories: ["前沿资讯"]
+categories: ["产业观察"]
+aliases: ["/posts/future-global-ai-applications-overview/"]
 ---
 
 **摘要**：本文基于2026年全球主要AI大会（北京智源大会、世界人工智能大会 WAIC 2026）以及行业领袖的最新演讲，梳理AI技术的核心趋势及其在各行业的落地前景。重点围绕 **AI安全与可信、World Model、具身智能与Agent生态、混合式AI、算力基础设施** 四大技术方向展开，并结合 **医疗、金融、制造、出行、内容创作** 等关键场景，展望未来十年AI的应用形态。
