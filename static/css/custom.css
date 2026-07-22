@@ -46,3 +46,23 @@
 @media screen and (max-width: 768px) {
   .site-hero-img { height: 66vh; }
 }
+
+/* 文章页版式——照搬博雅小筑：760px 居中单栏，无右侧栏
+   （覆盖 Ananke 默认的 mw8 + w-two-thirds-l + w-30-l 三栏布局） */
+.post {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+.post-content { max-width: 100%; }
+/* 标题与各级小标题居中，与博雅小筑协调 */
+.post-header { text-align: center; }
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 { text-align: center; }
