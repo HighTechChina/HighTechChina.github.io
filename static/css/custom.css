@@ -57,9 +57,9 @@
   padding-right: 1rem;
   box-sizing: border-box;
 }
-/* 手机窄屏：80% 太挤，放宽到 92%（仍居中） */
+/* 手机窄屏：维持全屏宽显示（100% 视口宽，仅留 1rem 内边距，不再收窄到 92%） */
 @media screen and (max-width: 768px) {
-  .post { width: 92%; }
+  .post { width: 100%; }
 }
 .post-content { max-width: 100%; }
 /* 标题与各级小标题居中，与博雅小筑协调 */
