@@ -47,10 +47,10 @@
   .site-hero-img { height: 66vh; }
 }
 
-/* 文章页版式——照搬博雅小筑：760px 居中单栏，无右侧栏
+/* 文章页版式——1440px 居中单栏，无右侧栏
    （覆盖 Ananke 默认的 mw8 + w-two-thirds-l + w-30-l 三栏布局） */
 .post {
-  max-width: 760px;
+  max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
