@@ -4,7 +4,7 @@ description: "关于博雅高科"
 featured_image: "/images/background.jpg"
 ---
 
-**博雅高科（Boya HighTech）** 是一个记录中国前沿科技突破、大国重器与硬核创新的个人小站。
+**<span class="accent-green">博雅高科（Boya HighTech）</span>** 是一个记录中国前沿科技突破、大国重器与硬核创新的个人小站。
 
 - **定位**：不追热点噱头，只做可读、可查、可回看的中国高科技记录。
 - **栏目**：前沿资讯 · 大国重器 · 硬核拆解 · 产业观察。
