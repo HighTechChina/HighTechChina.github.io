@@ -19,7 +19,7 @@ featured_image: "/images/background.jpg"
 
             从哈勃到罗曼——三代望远镜接力，人类窥探宇宙之眼愈发深邃
 
-            <span style="color:var(--en-color); font-size:0.9rem;">From Hubble to Roman — Three generations of telescopes pass the torch, as humanity's eye into the cosmos grows ever deeper</span>
+            From Hubble to Roman — Three generations of telescopes pass the torch, as humanity's eye into the cosmos grows ever deeper
 
         
 
@@ -30,34 +30,32 @@ featured_image: "/images/background.jpg"
 288
 
 百万像素相机
-<span style="font-size:0.7rem;">Megapixel Camera</span>
+Megapixel Camera
 
             
 
 ×200
 
 视场超越哈勃
-<span style="font-size:0.7rem;">200× Hubble's FOV</span>
+200× Hubble's FOV
 
             
 
 L₂
 
 目标轨道 150万公里
-<span style="font-size:0.7rem;">Target: 1.5M km orbit</span>
+Target: 1.5M km orbit
 
             
 
 10年
 
 设计寿命目标
-<span style="font-size:0.7rem;">10-year design life</span>
+10-year design life
 
         
 
     
-
-<article class="article">
 
     
 
@@ -86,7 +84,7 @@ Today, a thunderous roar split the sky at NASA's Kennedy Space Center in Florida
     
 
     
-## 一、哈勃：那只开启新纪元的眼睛 <span class="en-title">I. Hubble: The Eye That Opened a New Era</span>
+## 一、哈勃：那只开启新纪元的眼睛 I. Hubble: The Eye That Opened a New Era
 
     
 
@@ -112,67 +110,67 @@ On April 24, 1990, the Space Shuttle *Discovery* deployed the Hubble Space Teles
 
     
 
-        <svg viewBox="0 0 800 360" xmlns="http://www.w3.org/2000/svg">
-
-            <defs>
-
-                <linearGradient id="spaceGrad1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#0a0e1a"/><stop offset="100%" style="stop-color:#1a2744"/></linearGradient>
-
-            </defs>
-
-            <rect width="800" height="360" fill="url(#spaceGrad1)"/>
-
-            <circle cx="650" cy="320" r="120" fill="rgba(26,82,118,0.5)"/>
-
-            <circle cx="650" cy="320" r="80" fill="#1a5276" stroke="#2e86c1" stroke-width="1"/>
-
-            <ellipse cx="630" cy="295" rx="30" ry="15" fill="#27ae60" opacity="0.5"/>
-
-            <circle cx="60" cy="40" r="1" fill="white" opacity="0.8"/><circle cx="150" cy="80" r="1.5" fill="#f0c040" opacity="0.9"/>
-
-            <circle cx="250" cy="30" r="1" fill="white" opacity="0.6"/><circle cx="700" cy="50" r="1.2" fill="white" opacity="0.7"/>
+        
 
             
 
-            <g transform="translate(120, 80)">
-
-                <rect x="0" y="25" width="140" height="55" rx="6" fill="#b0b0b0" stroke="#909090" stroke-width="1"/>
-
-                <rect x="-55" y="15" width="45" height="70" rx="3" fill="#1a3a6e" stroke="#2e6db4" stroke-width="1"/>
-
-                <line x1="-32" y1="15" x2="-32" y2="85" stroke="#2e6db4" stroke-width="0.5" opacity="0.5"/>
-
-                <rect x="140" y="15" width="45" height="70" rx="3" fill="#1a3a6e" stroke="#2e6db4" stroke-width="1"/>
-
-                <line x1="163" y1="15" x2="163" y2="85" stroke="#2e6db4" stroke-width="0.5" opacity="0.5"/>
-
-                <ellipse cx="140" cy="52" rx="10" ry="25" fill="#2c3e50" stroke="#e8e8f0" stroke-width="1.5"/>
-
-                <line x1="8" y1="25" x2="-10" y2="15" stroke="#a0a0a0" stroke-width="2"/>
-
-                <line x1="8" y1="80" x2="-10" y2="90" stroke="#a0a0a0" stroke-width="2"/>
-
-                <text x="70" y="58" text-anchor="middle" fill="#1a2744" font-size="10" font-weight="bold">HUBBLE</text>
-
-            </g>
+                - 
 
             
 
             
 
-            <circle cx="600" cy="85" r="3" fill="#f0c040" opacity="0.8"/>
+            
 
-            <circle cx="680" cy="110" r="2" fill="#ff6b6b" opacity="0.7"/>
+            
 
-            <text x="70" y="230" fill="#e8e8f0" font-size="16" font-family="Noto Serif SC, serif" font-weight="600">哈勃空间望远镜 · Hubble Space Telescope</text>
+            
 
-            <text x="70" y="255" fill="#9a9ab0" font-size="12">1990年发射 · 2.4米主镜 · 运行35年+</text>
+            
 
-            <text x="70" y="275" fill="#40e0d0" font-size="11">Launched 1990 · 2.4m mirror · 35+ years operational</text>
+            
 
-            <text x="70" y="295" fill="#9a9ab0" font-size="11">轨道高度 547km · Orbit: ~547 km</text>
+            
 
-        </svg>
+            
+
+                
+
+                
+
+                - 
+
+                
+
+                - 
+
+                
+
+                - 
+
+                - 
+
+                HUBBLE
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            哈勃空间望远镜 · Hubble Space Telescope
+
+            1990年发射 · 2.4米主镜 · 运行35年+
+
+            Launched 1990 · 2.4m mirror · 35+ years operational
+
+            轨道高度 547km · Orbit: ~547 km
+
+        
 
         
 图：哈勃空间望远镜在地球轨道上运行，其2.4米主镜已捕捉超过160万张深空图像。
@@ -227,7 +225,7 @@ Hubble's other revolutionary contribution was helping scientists confirm that th
     
 
     
-## 二、韦伯：接棒后，看得更远 <span class="en-title">II. Webb: Receiving the Torch, Seeing Farther</span>
+## 二、韦伯：接棒后，看得更远 II. Webb: Receiving the Torch, Seeing Farther
 
     
 
@@ -253,57 +251,7 @@ Hubble's key limitation was its wavelength range—it excelled in visible and ul
 
     
 
-        <svg viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg">
-
-            <rect width="800" height="340" fill="#0d0d1a"/>
-
-            <circle cx="40" cy="60" r="1.2" fill="white" opacity="0.7"/><circle cx="700" cy="50" r="1.5" fill="white" opacity="0.8"/>
-
-            
-
-            <g transform="translate(400, 210)">
-
-                <ellipse cx="0" cy="70" rx="150" ry="30" fill="none" stroke="#e8c040" stroke-width="1.2" opacity="0.3"/>
-
-                <ellipse cx="0" cy="50" rx="145" ry="27" fill="none" stroke="#e8c040" stroke-width="1" opacity="0.4"/>
-
-                <ellipse cx="0" cy="30" rx="140" ry="25" fill="none" stroke="#e8c040" stroke-width="0.8" opacity="0.5"/>
-
-                <ellipse cx="0" cy="10" rx="135" ry="23" fill="none" stroke="#e8c040" stroke-width="0.8" opacity="0.6"/>
-
-                <ellipse cx="0" cy="-10" rx="130" ry="21" fill="rgba(232,192,64,0.12)" stroke="#e8c040" stroke-width="1"/>
-
-            </g>
-
-            
-
-            <g transform="translate(365, 70)">
-
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-
-                <line x1="35" y1="-18" x2="35" y2="-55" stroke="#a0a0a0" stroke-width="2"/>
-
-                <line x1="-25" y1="-18" x2="-25" y2="-55" stroke="#a0a0a0" stroke-width="2"/>
-
-                <circle cx="5" cy="-55" r="14" fill="#e8c040" stroke="#d4a017" stroke-width="1.5"/>
-
-            </g>
+        
 
             
 
@@ -311,11 +259,61 @@ Hubble's key limitation was its wavelength range—it excelled in visible and ul
 
             
 
-            <text x="400" y="310" text-anchor="middle" fill="#e8e8f0" font-size="16" font-family="Noto Serif SC, serif" font-weight="600">詹姆斯·韦伯空间望远镜 · James Webb Space Telescope</text>
+            
 
-            <text x="400" y="330" text-anchor="middle" fill="#9a9ab0" font-size="11">2021年发射 · 6.5米金铍主镜 · 红外波段 · L₂轨道</text>
+                
 
-        </svg>
+                
+
+                
+
+                
+
+                
+
+            
+
+            
+
+            
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+
+                - 
+
+                - 
+
+                
+
+            
+
+            
+
+            
+
+            
+
+            詹姆斯·韦伯空间望远镜 · James Webb Space Telescope
+
+            2021年发射 · 6.5米金铍主镜 · 红外波段 · L₂轨道
+
+        
 
         
 图：韦伯望远镜的18面六边形金铍镜段组成6.5米主镜，五层遮阳板将其冷却至-233°C以下，使其能在红外波段俯瞰宇宙诞生之初。
@@ -370,7 +368,7 @@ In July 2022, Webb released its first full-color images, stunning the world. In 
     
 
     
-## 三、罗曼：更大视野，更深秘密 <span class="en-title">III. Roman: Wider View, Deeper Secrets</span>
+## 三、罗曼：更大视野，更深秘密 III. Roman: Wider View, Deeper Secrets
 
     
 
@@ -396,41 +394,7 @@ Right now, on August 30, 2026, the Roman Space Telescope has officially lifted o
 
     
 
-        <svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
-
-            <rect width="800" height="320" fill="#0a1020"/>
-
-            
-
-            <ellipse cx="230" cy="170" rx="160" ry="120" fill="rgba(64,224,208,0.08)"/>
-
-            <ellipse cx="560" cy="170" rx="150" ry="110" fill="rgba(240,192,64,0.06)"/>
-
-            
-
-            <circle cx="160" cy="130" r="2" fill="#40e0d0" opacity="0.8"/>
-
-            <circle cx="210" cy="100" r="1.5" fill="white" opacity="0.7"/>
-
-            <circle cx="290" cy="160" r="2.5" fill="#f0c040" opacity="0.9"/>
-
-            <circle cx="140" cy="200" r="1.5" fill="#ff6b6b" opacity="0.6"/>
-
-            <circle cx="270" cy="240" r="2" fill="white" opacity="0.7"/>
-
-            <circle cx="340" cy="120" r="1.8" fill="#40e0d0" opacity="0.7"/>
-
-            <circle cx="400" cy="180" r="2.2" fill="#f0c040" opacity="0.8"/>
-
-            <circle cx="500" cy="140" r="1.5" fill="white" opacity="0.6"/>
-
-            <circle cx="580" cy="110" r="2" fill="#ff6b6b" opacity="0.7"/>
-
-            <circle cx="650" cy="170" r="1.8" fill="#40e0d0" opacity="0.8"/>
-
-            <circle cx="720" cy="230" r="1.5" fill="white" opacity="0.6"/>
-
-            <circle cx="480" cy="250" r="2" fill="#f0c040" opacity="0.7"/>
+        
 
             
 
@@ -440,31 +404,65 @@ Right now, on August 30, 2026, the Roman Space Telescope has officially lifted o
 
             
 
-            <g transform="translate(355, 100)">
+            
 
-                <rect x="0" y="0" width="90" height="110" rx="8" fill="#2a3a5c" stroke="#40e0d0" stroke-width="1.5"/>
+            
 
-                <ellipse cx="45" cy="18" rx="32" ry="13" fill="#1a2744" stroke="#e8c040" stroke-width="1.5"/>
+            
 
-                <ellipse cx="45" cy="18" rx="18" ry="7" fill="#0a0e1a" stroke="#40e0d0" stroke-width="1"/>
+            
 
-                <rect x="-35" y="35" width="30" height="55" rx="3" fill="#1a3a6e" stroke="#2e6db4" stroke-width="1"/>
+            
 
-                <rect x="95" y="35" width="30" height="55" rx="3" fill="#1a3a6e" stroke="#2e6db4" stroke-width="1"/>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
 
                 
 
-                <text x="45" y="70" text-anchor="middle" fill="#40e0d0" font-size="9" font-family="sans-serif">WFI</text>
+                
 
-                <text x="45" y="83" text-anchor="middle" fill="#f0c040" font-size="8" font-family="sans-serif">288MP</text>
+                
 
-            </g>
+                
 
-            <text x="400" y="295" text-anchor="middle" fill="#e8e8f0" font-size="15" font-family="Noto Serif SC, serif" font-weight="600">罗曼太空望远镜 · Nancy Grace Roman Space Telescope</text>
+                
 
-            <text x="400" y="313" text-anchor="middle" fill="#9a9ab0" font-size="11">广域巡天 · 288兆像素近红外相机 · L₂轨道</text>
+                
 
-        </svg>
+                WFI
+
+                288MP
+
+            
+
+            罗曼太空望远镜 · Nancy Grace Roman Space Telescope
+
+            广域巡天 · 288兆像素近红外相机 · L₂轨道
+
+        
 
         
 图：罗曼望远镜的广域巡天单次拍摄面积相当于200个哈勃视场，能在10年内绘制跨越100亿年历史的三维宇宙地图。
@@ -528,7 +526,7 @@ Roman's survey efficiency is hundreds of times that of Hubble. It generates up t
     
 
     
-## 四、深空探索的接力赛 <span class="en-title">IV. The Relay Race of Deep-Space Exploration</span>
+## 四、深空探索的接力赛 IV. The Relay Race of Deep-Space Exploration
 
     
 
@@ -633,9 +631,9 @@ Precisely mapped the Cosmic Microwave Background, locking dark energy at 68.3% o
  | 韦伯 JWST
  | 罗曼 Roman
 
-        </thead>
+        
 
-        <tbody>
+        
 
             
  | 发射年份
@@ -679,7 +677,7 @@ Precisely mapped the Cosmic Microwave Background, locking dark energy at 68.3% o
  | 约50 GB/天
  | 11 TB/天（约哈勃70倍）
 
-        </tbody>
+        
 
     
 
@@ -689,7 +687,7 @@ Precisely mapped the Cosmic Microwave Background, locking dark energy at 68.3% o
     
 
     
-## 五、为什么这些望远镜如此重要？ <span class="en-title">V. Why Do These Telescopes Matter?</span>
+## 五、为什么这些望远镜如此重要？ V. Why Do These Telescopes Matter?
 
     
 
@@ -714,7 +712,7 @@ The value of deep-space telescopes extends far beyond pretty pictures. They are 
     
 
     
-### 宇宙在如何演化？ <span class="en-sub">How is the Universe Evolving?</span>
+### 宇宙在如何演化？ How is the Universe Evolving?
 
     
 
@@ -739,7 +737,7 @@ Hubble and Roman, by observing galaxies across different epochs, have constructe
     
 
     
-### 我们在宇宙中孤独吗？ <span class="en-sub">Are We Alone in the Cosmos?</span>
+### 我们在宇宙中孤独吗？ Are We Alone in the Cosmos?
 
     
 
@@ -764,7 +762,7 @@ Webb has already detected molecules like carbon dioxide and water vapor in exopl
     
 
     
-### 宇宙的「隐形骨架」是什么？ <span class="en-sub">What is the Universe's Invisible Skeleton?</span>
+### 宇宙的「隐形骨架」是什么？ What is the Universe's Invisible Skeleton?
 
     
 
@@ -788,7 +786,8 @@ Visible ordinary matter accounts for only 5% of the universe's total energy; the
 
     
 
-    <blockquote>
+    
+> 
 
         
 "两个世纪以来，我们一直在追问同一个问题——我们从哪里来？也许答案，就藏在那无尽的星光深处。"
@@ -796,9 +795,9 @@ Visible ordinary matter accounts for only 5% of the universe's total energy; the
         
 "For two centuries, we have pursued the same question—where do we come from? Perhaps the answer lies hidden in the endless depths of starlight."
 
-        <cite>— 本文结语 / Article Conclusion</cite>
+        — 本文结语 / Article Conclusion
 
-    </blockquote>
+    
 
     
 
@@ -826,7 +825,7 @@ Visible ordinary matter accounts for only 5% of the universe's total energy; the
     
 
     
-## 六、结语：仰望，从未停止 <span class="en-title">VI. Conclusion: We Never Stop Looking Up</span>
+## 六、结语：仰望，从未停止 VI. Conclusion: We Never Stop Looking Up
 
     
 
@@ -876,13 +875,9 @@ Roman is not the end but another starting line. When it returns its first images
 
         「两个世纪以来，我们一直在追问同一个问题——我们从哪里来？也许答案，就藏在那无尽的星光深处。」
 
-        <span style="color:var(--en-color); font-size:0.88rem;">"For two centuries, we have pursued the same question—where do we come from? Perhaps the answer lies hidden in the endless depths of starlight."</span>
+        "For two centuries, we have pursued the same question—where do we come from? Perhaps the answer lies hidden in the endless depths of starlight."
 
     
-
-</article>
-
-<footer class="article-footer">
 
     
 
@@ -891,5 +886,3 @@ Roman is not the end but another starting line. When it returns its first images
     
 
 资料来源：NASA官网 · ESA · 界面新闻 · SpaceX
-
-</footer>

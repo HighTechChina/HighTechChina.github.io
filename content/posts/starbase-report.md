@@ -20,13 +20,13 @@ STARBASE — Humanity's New Gateway to Deep Space
 **图例：**SpaceX星舰从德州博卡奇卡星际基地起飞进行试验飞行（NASA/SpaceX官方图片） / SpaceX Starship test flight launch from Starbase, Boca Chica, Texas (NASA/SpaceX official)
 
   
-## 一、什么是星际基地<span class="en">What Is Starbase?</em>
+## 一、什么是星际基地What Is Starbase?
 
   
 
     
 
-星际基地（Starbase）是SpaceX公司建立的航天港与火箭研发制造中心，目前有两个地点：位于<span class="key">德克萨斯州博卡奇卡</span>的原始基地，以及2026年8月正式公布的位于<span class="key">路易斯安那州佩坎岛</span>的超级基地。两者共同构成了SpaceX多基地运营战略的核心。
+星际基地（Starbase）是SpaceX公司建立的航天港与火箭研发制造中心，目前有两个地点：位于德克萨斯州博卡奇卡的原始基地，以及2026年8月正式公布的位于路易斯安那州佩坎岛的超级基地。两者共同构成了SpaceX多基地运营战略的核心。
 
     
 
@@ -76,23 +76,23 @@ $100B
 
   
 
-    <figcaption>图1：SpaceX星际基地发展时间线 / Figure 1: SpaceX Starbase Development Timeline</figcaption>
+    图1：SpaceX星际基地发展时间线 / Figure 1: SpaceX Starbase Development Timeline
 
     
 
   
 
   
-## 二、两大星际基地<span class="en">Two Starbases</span>
+## 二、两大星际基地Two Starbases
 
   
-### 德州Starbase：创始之地<span class="en">Texas Starbase: The Birthplace</span>
+### 德州Starbase：创始之地Texas Starbase: The Birthplace
 
   
 
     
 
-德克萨斯州Starbase位于博卡奇卡（Boca Chica），靠近墨西哥边境，自2014年起被SpaceX选中作为星舰（Starship）的研发与试验场。这里是星舰原型机从设计到试飞的完整链条所在地——工厂、测试台架、发射塔、指挥中心一应俱全。<span class="key">它是全球第一个专为轨道级商业发射设计的航天港之一</span>。
+德克萨斯州Starbase位于博卡奇卡（Boca Chica），靠近墨西哥边境，自2014年起被SpaceX选中作为星舰（Starship）的研发与试验场。这里是星舰原型机从设计到试飞的完整链条所在地——工厂、测试台架、发射塔、指挥中心一应俱全。它是全球第一个专为轨道级商业发射设计的航天港之一。
 
     
 
@@ -108,7 +108,7 @@ Texas Starbase is located in Boca Chica, near the Mexican border, and has served
 
     
 
-Texas Starbase currently serves as the **R&amp;D and prototype testing center**, handling all iterations of Starship from the SN series to orbital-class vehicles. In April 2023, the full-stack static fire test was completed here; in March 2024, Starship's fourth test flight achieved orbit successfully.
+Texas Starbase currently serves as the **R&D and prototype testing center**, handling all iterations of Starship from the SN series to orbital-class vehicles. In April 2023, the full-stack static fire test was completed here; in March 2024, Starship's fourth test flight achieved orbit successfully.
 
   
 
@@ -135,7 +135,7 @@ Texas Starbase currently serves as the **R&amp;D and prototype testing center**,
   
 
   
-### 路易斯安那Starbase：未来巨港<span class="en">Louisiana Starbase: The Mega Port of the Future</span>
+### 路易斯安那Starbase：未来巨港Louisiana Starbase: The Mega Port of the Future
 
   
 
@@ -153,7 +153,7 @@ On August 25, 2026, SpaceX and the state of Louisiana formally announced the con
 
     
 
-路易斯安那基地的规划蓝图极为宏大：<span class="key">十座以上发射工位、每天30次星舰发射能力、自建推进剂生产设施、深水港口、机场、电力生成系统</span>。这是一个完全自给自足的航天港——从火箭燃料的制造到航天员的往返交通，一切都在基地内部闭环。
+路易斯安那基地的规划蓝图极为宏大：十座以上发射工位、每天30次星舰发射能力、自建推进剂生产设施、深水港口、机场、电力生成系统。这是一个完全自给自足的航天港——从火箭燃料的制造到航天员的往返交通，一切都在基地内部闭环。
 
     
 
@@ -172,14 +172,14 @@ The master plan for Louisiana Starbase is extraordinarily ambitious: **over ten 
 
   
 
-    <figcaption>图2：两大星际基地关键参数对比 / Figure 2: Key Parameters of the Two Starbases</figcaption>
+    图2：两大星际基地关键参数对比 / Figure 2: Key Parameters of the Two Starbases
 
     
 
   
 
   
-## 三、星际基地 vs 其他航天港<span class="en">Starbase vs Other Spaceports</span>
+## 三、星际基地 vs 其他航天港Starbase vs Other Spaceports
 
   
 
@@ -213,9 +213,9 @@ Space launch facilities are not rare worldwide. But in terms of operational mode
 
         
 
-      </thead>
+      
 
-      <tbody>
+      
 
         
 
@@ -315,7 +315,7 @@ Space launch facilities are not rare worldwide. But in terms of operational mode
 
         
 
-      </tbody>
+      
 
     
 
@@ -329,7 +329,7 @@ Space launch facilities are not rare worldwide. But in terms of operational mode
 
     
 
-**The core difference lies in "autonomy":** Traditional spaceports are multi-user shared infrastructure where launch slots must be scheduled and waited for. Starbase is SpaceX's "own factory + own launch site"—controlling the entire pipeline from R&amp;D to manufacturing to launch autonomously. This autonomy is the fundamental prerequisite for achieving high-frequency launches.
+**The core difference lies in "autonomy":** Traditional spaceports are multi-user shared infrastructure where launch slots must be scheduled and waited for. Starbase is SpaceX's "own factory + own launch site"—controlling the entire pipeline from R&D to manufacturing to launch autonomously. This autonomy is the fundamental prerequisite for achieving high-frequency launches.
 
   
 
@@ -389,22 +389,22 @@ flowchart TD
 
     style starbase fill:none,stroke:none
 
-    </pre>
+    
 
-    <figcaption>图2.5：传统航天港与星际基地运营流程对比 / Figure 2.5: Traditional Spaceport vs Starbase Operational Flow</figcaption>
-
-  
+    图2.5：传统航天港与星际基地运营流程对比 / Figure 2.5: Traditional Spaceport vs Starbase Operational Flow
 
   
 
-    <figcaption>图3：全球主要航天港发射频率对比（年发射次数）/ Figure 3: Annual Launch Frequency Comparison of Major Global Spaceports</figcaption>
+  
+
+    图3：全球主要航天港发射频率对比（年发射次数）/ Figure 3: Annual Launch Frequency Comparison of Major Global Spaceports
 
     
 
   
 
   
-## 四、星际基地的核心优势<span class="en">Core Advantages of Starbase</span>
+## 四、星际基地的核心优势Core Advantages of Starbase
 
   
 
@@ -478,17 +478,17 @@ flowchart TD
 
   
 
-    <figcaption>图4：星际基地 vs 传统航天港综合评分雷达图 / Figure 4: Starbase vs Traditional Spaceports — Comprehensive Capability Radar</figcaption>
+    图4：星际基地 vs 传统航天港综合评分雷达图 / Figure 4: Starbase vs Traditional Spaceports — Comprehensive Capability Radar
 
     
 
   
 
   
-## 五、技术特点与创新<span class="en">Technical Features & Innovations</span>
+## 五、技术特点与创新Technical Features & Innovations
 
   
-### 星舰回收：著名的"塔捕"<span class="en">Starship Recovery: The Famous "Mechazilla" Catch</span>
+### 星舰回收：著名的"塔捕"Starship Recovery: The Famous "Mechazilla" Catch
 
   
 
@@ -503,13 +503,13 @@ Unlike traditional rocket boosters that recover via parachute onto ocean platfor
   
 
   
-### 甲烷燃料路线<span class="en">Methane Fuel Architecture</span>
+### 甲烷燃料路线Methane Fuel Architecture
 
   
 
     
 
-星舰选择液氧+液态甲烷（LOX/LCH₄）作为推进剂组合。这一选择在航天史上具有深远意义：**甲烷燃烧后产生的积碳极少，可以显著减少发动机维护间隔**，实现快速复用。更重要的是，<span class="key">甲烷可以在火星上通过Sabatier反应从二氧化碳和地下水冰中合成</span>，这意味着星舰在未来火星任务中可以实现"异地燃料生产"——为火星返回地球的任务奠定基础。
+星舰选择液氧+液态甲烷（LOX/LCH₄）作为推进剂组合。这一选择在航天史上具有深远意义：**甲烷燃烧后产生的积碳极少，可以显著减少发动机维护间隔**，实现快速复用。更重要的是，甲烷可以在火星上通过Sabatier反应从二氧化碳和地下水冰中合成，这意味着星舰在未来火星任务中可以实现"异地燃料生产"——为火星返回地球的任务奠定基础。
 
     
 
@@ -518,13 +518,13 @@ Starship's choice of liquid oxygen + liquid methane (LOX/LCH₄) as propellant i
   
 
   
-### 完全可复用设计<span class="en">Fully Reusable Design</span>
+### 完全可复用设计Fully Reusable Design
 
   
 
     
 
-星舰是整个航天史上第一个设计目标是<span class="key">完全可复用</span>的大型运载火箭——从 Super Heavy 助推器到 Starship 飞船本体，两级均可多次飞行。SpaceX的目标是将单次发射成本从传统火箭的每千克数万美元降至数百美元，这是实现大规模星际运输的经济基础。
+星舰是整个航天史上第一个设计目标是完全可复用的大型运载火箭——从 Super Heavy 助推器到 Starship 飞船本体，两级均可多次飞行。SpaceX的目标是将单次发射成本从传统火箭的每千克数万美元降至数百美元，这是实现大规模星际运输的经济基础。
 
     
 
@@ -533,7 +533,7 @@ Starship is the first large launch vehicle in aerospace history designed with th
   
 
   
-## 六、未来展望<span class="en">Future Outlook</span>
+## 六、未来展望Future Outlook
 
   
 
@@ -607,7 +607,7 @@ Support for large-scale cargo transport for crewed Mars missions, early signs of
 
   
 
-    <figcaption>图5：星际基地发射频率增长预测（2026-2040）/ Figure 5: Projected Launch Frequency Growth at Starbase (2026-2040)</figcaption>
+    图5：星际基地发射频率增长预测（2026-2040）/ Figure 5: Projected Launch Frequency Growth at Starbase (2026-2040)
 
     
 
@@ -626,16 +626,16 @@ If SpaceX's timeline holds, by around 2035, Starbase could send hundreds of tons
   
 
   
-## 七、对人类未来的影响<span class="en">Impact on Humanity's Future</span>
+## 七、对人类未来的影响Impact on Humanity's Future
 
   
-### 让火星殖民成为可能<span class="en">Making Mars Colonization Feasible</span>
+### 让火星殖民成为可能Making Mars Colonization Feasible
 
   
 
     
 
-火星是人类太空探索的终极目标之一。但火星距离地球最近时也有约5,460万公里，单程飞行需要6-9个月。在此之前，最大的障碍不是工程技术，而是<span class="key">经济成本</span>。当前火箭发射成本约为每千克1-2万美元（猎鹰9号），而星舰的目标是将其降至100美元以下。星际基地作为星舰的"家"，是这个成本革命得以实现的物理载体。
+火星是人类太空探索的终极目标之一。但火星距离地球最近时也有约5,460万公里，单程飞行需要6-9个月。在此之前，最大的障碍不是工程技术，而是经济成本。当前火箭发射成本约为每千克1-2万美元（猎鹰9号），而星舰的目标是将其降至100美元以下。星际基地作为星舰的"家"，是这个成本革命得以实现的物理载体。
 
     
 
@@ -644,13 +644,13 @@ Mars is one of humanity's ultimate goals in space exploration. But even at its c
   
 
   
-### 太空经济的引擎<span class="en">Engine of the Space Economy</span>
+### 太空经济的引擎Engine of the Space Economy
 
   
 
     
 
-星际基地不只是发射场，它是一个<span class="key">综合性太空产业生态</span>：包括推进剂工厂、卫星组装车间、太空垃圾清理设施、轨道加油站等。按照SpaceX的规划，路州基地还将配套机场、港口、居住区，形成一个真正意义上的"太空城"。这将创造数万个工作岗位，并带动上下游产业链的发展。
+星际基地不只是发射场，它是一个综合性太空产业生态：包括推进剂工厂、卫星组装车间、太空垃圾清理设施、轨道加油站等。按照SpaceX的规划，路州基地还将配套机场、港口、居住区，形成一个真正意义上的"太空城"。这将创造数万个工作岗位，并带动上下游产业链的发展。
 
     
 
@@ -659,7 +659,7 @@ Starbase is not just a launch site—it's a **comprehensive space industry ecosy
   
 
   
-### 地球能源与气候的潜在贡献<span class="en">Potential Contributions to Earth's Energy & Climate</span>
+### 地球能源与气候的潜在贡献Potential Contributions to Earth's Energy & Climate
 
   
 
@@ -674,13 +674,13 @@ An often-overlooked dimension is the **Space-Based Solar Power (SBSP)** concept 
   
 
   
-### 多行星文明的起点<span class="en">The Starting Point of a Multi-Planetary Civilization</span>
+### 多行星文明的起点The Starting Point of a Multi-Planetary Civilization
 
   
 
     
 
-马斯克多次公开表示，建立星际基地的最终目的是让人类成为<span class="key">多行星物种</span>。当地球面临小行星撞击、核战争、气候灾难等存在性风险时，拥有一个独立的火星文明备份，是整个人类种族层面的保险策略。星际基地正是这一宏大愿景的物理起点——没有低成本、高频次的发射能力，多行星文明就只是空想。
+马斯克多次公开表示，建立星际基地的最终目的是让人类成为多行星物种。当地球面临小行星撞击、核战争、气候灾难等存在性风险时，拥有一个独立的火星文明备份，是整个人类种族层面的保险策略。星际基地正是这一宏大愿景的物理起点——没有低成本、高频次的发射能力，多行星文明就只是空想。
 
     
 
@@ -711,13 +711,13 @@ Musk has repeatedly stated publicly that the ultimate purpose of building Starba
   
 
   
-## 八、结语<span class="en">Conclusion</span>
+## 八、结语Conclusion
 
   
 
     
 
-从德克萨斯州博卡奇卡的一片滩涂，到路易斯安那州佩坎岛的十万英亩湿地，星际基地的故事是一个关于<span class="key">野心、工程与现实</span>的故事。它既是对传统航天工业模式的颠覆——从政府主导的多用户共享设施转向私营企业的垂直整合，也是对人类太空探索边界的拓展——从近地轨道走向深空。
+从德克萨斯州博卡奇卡的一片滩涂，到路易斯安那州佩坎岛的十万英亩湿地，星际基地的故事是一个关于野心、工程与现实的故事。它既是对传统航天工业模式的颠覆——从政府主导的多用户共享设施转向私营企业的垂直整合，也是对人类太空探索边界的拓展——从近地轨道走向深空。
 
     
 
@@ -729,7 +729,7 @@ From a beachfront in Boca Chica, Texas to 125,000 acres of wetland at Pecan Isla
 
     
 
-星际基地不是终点，而是起点。它的真正意义不在于某一天有多少枚火箭升空，而在于它证明了：当一家私营企业以数十年为尺度规划太空基础设施时，曾经只属于国家的太空能力，正在被重新定义。<span class="key">人类向星际时代迈出的第一步，或许正从路易斯安那州的沼泽地中悄然孕育。</span>
+星际基地不是终点，而是起点。它的真正意义不在于某一天有多少枚火箭升空，而在于它证明了：当一家私营企业以数十年为尺度规划太空基础设施时，曾经只属于国家的太空能力，正在被重新定义。人类向星际时代迈出的第一步，或许正从路易斯安那州的沼泽地中悄然孕育。
 
     
 
@@ -763,8 +763,6 @@ Starbase is not the destination—it is the starting point. Its true significanc
 
   
 
-<footer>
-
   
 
     
@@ -774,42 +772,24 @@ Starbase is not the destination—it is the starting point. Its true significanc
 
       
 
-        <li id="cite-1"><span class="src-title">SpaceX Official. "Starbase, Louisiana." spacex.com.</span>[https://www.spacex.com/sites/starbase-la](https://www.spacex.com/sites/starbase-la)
+        - SpaceX Official. "Starbase, Louisiana." spacex.com.[https://www.spacex.com/sites/starbase-la](https://www.spacex.com/sites/starbase-la)
 
-        <li id="cite-2"><span class="src-title">New Space Economy. "What Does SpaceX's Starbase Louisiana Mean for Starship and the Space Economy?" August 25, 2026.</span>[https://newspaceeconomy.ca/2026/08/25/...](https://newspaceeconomy.ca/2026/08/25/what-does-spacexs-starbase-louisiana-mean-for-starship-and-the-space-economy/)
+        - New Space Economy. "What Does SpaceX's Starbase Louisiana Mean for Starship and the Space Economy?" August 25, 2026.[https://newspaceeconomy.ca/2026/08/25/...](https://newspaceeconomy.ca/2026/08/25/what-does-spacexs-starbase-louisiana-mean-for-starship-and-the-space-economy/)
 
-        <li id="cite-3"><span class="src-title">Korea Post. "SpaceX plans $100bn 'mega Starbase' in Louisiana as Musk targets 30 launches a day." August 26, 2026.</span>[https://www.koreapost.com/news/articleView.html?idxno=49373](https://www.koreapost.com/news/articleView.html?idxno=49373)
+        - Korea Post. "SpaceX plans $100bn 'mega Starbase' in Louisiana as Musk targets 30 launches a day." August 26, 2026.[https://www.koreapost.com/news/articleView.html?idxno=49373](https://www.koreapost.com/news/articleView.html?idxno=49373)
 
-        <li id="cite-4"><span class="src-title">GeekBlog. "Louisiana Passed the Laws in May. SpaceX Announced the $100 Billion Spaceport in August." August 27, 2026.</span>[https://geekblog.net/tech-news/spacex-starbase-louisiana-100-billion-pecan-island/](https://geekblog.net/tech-news/spacex-starbase-louisiana-100-billion-pecan-island/)
+        - GeekBlog. "Louisiana Passed the Laws in May. SpaceX Announced the $100 Billion Spaceport in August." August 27, 2026.[https://geekblog.net/tech-news/spacex-starbase-louisiana-100-billion-pecan-island/](https://geekblog.net/tech-news/spacex-starbase-louisiana-100-billion-pecan-island/)
 
-        <li id="cite-5"><span class="src-title">FAA. "Spaceports by State." Federal Aviation Administration.</span>[https://www.faa.gov/space/spaceports_by_state](https://www.faa.gov/space/spaceports_by_state)
+        - FAA. "Spaceports by State." Federal Aviation Administration.[https://www.faa.gov/space/spaceports_by_state](https://www.faa.gov/space/spaceports_by_state)
 
-        <li id="cite-6"><span class="src-title">Mount Bonnell. "SpaceX South Texas Build Site Expands Operations for Ambitious Launch Goals."</span>[https://www.mountbonnell.info/boca-chica-blastoff/...](https://www.mountbonnell.info/boca-chica-blastoff/spacex-south-texas-build-site-expands-operations-for-ambitious-launch-goals)
+        - Mount Bonnell. "SpaceX South Texas Build Site Expands Operations for Ambitious Launch Goals."[https://www.mountbonnell.info/boca-chica-blastoff/...](https://www.mountbonnell.info/boca-chica-blastoff/spacex-south-texas-build-site-expands-operations-for-ambitious-launch-goals)
 
-        <li id="cite-7"><span class="src-title">NASA. "SpaceX Starship Test Flight" — Image Credit: SpaceX (April 2, 2025).</span>[https://www.nasa.gov/image-detail/cld-spacex-starship-image/](https://www.nasa.gov/image-detail/cld-spacex-starship-image/)
+        - NASA. "SpaceX Starship Test Flight" — Image Credit: SpaceX (April 2, 2025).[https://www.nasa.gov/image-detail/cld-spacex-starship-image/](https://www.nasa.gov/image-detail/cld-spacex-starship-image/)
 
-        <li id="cite-8"><span class="src-title">AP Photos: Eric Gay (Jan–Mar 2025), Gerald Herbert (Aug 2026), Sergio Flores/AFP (Oct 2024) — covering Starship launches, Mechazilla catch, and Louisiana announcement.</span>
+        - AP Photos: Eric Gay (Jan–Mar 2025), Gerald Herbert (Aug 2026), Sergio Flores/AFP (Oct 2024) — covering Starship launches, Mechazilla catch, and Louisiana announcement.
 
       
 
       
 
 图片版权归所属媒体机构所有，仅用于本文科普展示。
-
-    
-
-  
-
-</footer>
-
-<script src="./_shared/js/echarts.min.js"></script>
-
-<script src="./_shared/js/mermaid.min.js"></script>
-
-<script>
-
-mermaid.initialize({ startOnLoad: true, theme: 'dark', securityLevel: 'loose' });
-
-</script>
-
-<script src="./assets/charts.js"></script>
