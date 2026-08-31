@@ -1,0 +1,59 @@
+baseURL = "https://hightechchina.github.io/"
+languageCode = "zh-cn"
+title = "博雅高科 | HighTechChina"
+theme = "ananke"
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 6
+
+[params]
+  author = "博雅高科"
+  description = "中华科技·博览天下"
+  email = "hightech@agent.qq.com"
+  # 首页大图（与博雅小筑同一张）
+  # 具体图片在各页面 front matter 的 featured_image 指定
+  cover_dimming_class = "bg-black-60"
+  background_color_class = "bg-black"
+  recent_posts_number = 5
+  custom_css = ["css/custom.css"]
+
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/HighTechChina"
+[[params.ananke_socials]]
+  name = "email"
+  url = "mailto:hightech@agent.qq.com"
+
+[menu]
+  [[menu.main]]
+    name = "前沿资讯"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "大国重器"
+    url = "/daguo/"
+    weight = 2
+  [[menu.main]]
+    name = "硬核拆解"
+    url = "/hardcore/"
+    weight = 3
+  [[menu.main]]
+    name = "产业观察"
+    url = "/industry/"
+    weight = 4
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
