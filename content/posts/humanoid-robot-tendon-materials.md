@@ -9,7 +9,6 @@ slug = "humanoid-robot-tendon-materials"
 featured_image = '/images/background.jpg'
 +++
 
-     front matter 中的 cover.image 与正文的 ![](images/xxx.svg) 即可正常显示。 -->
 
 > 研究时点：2026 年 9 月 18 日
 > 署名：by Songsir（松朗）
