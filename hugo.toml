@@ -1,4 +1,5 @@
 baseURL = "https://hightechchina.github.io/"
+timeZone = "Asia/Shanghai"
 languageCode = "zh-cn"
 title = "博雅高科 | HighTechChina"
 theme = "ananke"
