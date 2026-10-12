@@ -10,6 +10,7 @@ enableEmoji = true
   pagerSize = 6
 
 [params]
+  env = "production"
   author = "博雅高科"
   description = "中华科技·博览天下"
   email = "hightech@agent.qq.com"
