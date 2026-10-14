@@ -36,9 +36,9 @@
   .bilingual-en { font-size: 0.95rem; }
 }
 
-/* 首页/内页 hero：铺满宽度 + 限高 + 顶部对齐裁切（与博雅小筑 bg-top 一致，避开图像中心暗区）；object-position 50% 0%（顶对齐；第二值 0%看顶/50%居中/100%看底） */
+/* 首页/内页 hero：铺满宽度 + 限高 + 居中略偏上裁切（banner 效果，无黑边）；object-position 50% 48%（你 07-23 定的值；第二值越小露顶越多，0%看顶/100%看底/50%居中） */
 .site-hero { position: relative; width: 100%; line-height: 0; overflow: hidden; background: #333; }
-.site-hero-img { display: block; width: 100%; height: 86vh; object-fit: cover; object-position: 50% 0%; }
+.site-hero-img { display: block; width: 100%; height: 86vh; object-fit: cover; object-position: 50% 48%; }
 .site-hero-overlay { position: absolute; inset: 0; line-height: 1.5; display: flex; flex-direction: column; }
 .site-hero-overlay > nav { flex: 0 0 auto; }
 .site-hero-overlay > div { flex: 1 1 auto; display: flex; align-items: center; justify-content: center; }
