@@ -8,7 +8,8 @@
   <article class="post">
     <header class="post-header mb4">
       {{ with .CurrentSection.Title }}<aside class="instapaper_ignoref b helvetica tracked">{{ . | upper }}</aside>{{ end }}
-      <h1 class="f1 athelas mt3 mb1">{{ .Title }}</h1>
+      {{/* omit_header_text=true 时跳过模板 h1（用于自带报头的文章，如宏观周报），避免与文章自带标题重复；其他文章不受影响 */}}
+      {{ if not .Params.omit_header_text }}<h1 class="f1 athelas mt3 mb1">{{ .Title }}</h1>{{ end }}
       <div class="f6 mid-gray">
         {{ if not .Date.IsZero }}
         <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}</time>
